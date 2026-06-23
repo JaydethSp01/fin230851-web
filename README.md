@@ -1,2 +1,3 @@
-# fin230851-web
-ScrumDev AI frontend (fin230851-web)
+# FIN230851 - Frontend
+
+Next.js desplegado en Vercel.
